@@ -11,7 +11,6 @@
       <div id="header">
 	<!-- <h1> Samuel Chase </h1> -->
 	<ul>
-	  <li> <a href="s/resume.txt"> resume </a> </li>
 	  <li> <a href="p/index"> archive </a> </li>
 	</ul>
       </div>
@@ -34,6 +33,8 @@
 	<p> I'm usually online on #codesurfers (OFTC) as samebchase. </p>
 
 	<p> email: samebchase at gmail dot com </p>
+
+	<p> My <a href="s/resume.txt">résumé</a>. </p>
 	
       </div>
 
