@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> About </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15">
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+    <link rel = "icon" type="image/png" href="img/s.png">
+  </head>
+  <body>
+    <div id="container">
+      <div id="header">
+	<!-- <h1> Samuel Chase </h1> -->
+	<ul>
+	  <li> <a href="s/resume.txt"> Resume </a> </li>
+	  <li> <a href="p/index"> Archive </a> </li>
+	</ul>
+      </div>
+
+      <div id="sidebar">
+	<!-- Empty -->
+      </div>
+
+      <div id="content" style="border-bottom: 0px; min-height: 500px">
+
+	<h3>Hello, I'm Samuel. :-) </h3>	
+
+	<p> I'm currently in the final year of the CS program from GITAM,
+	  Visakhapatnam. </p>
+
+	<p> I like playing Table Tennis and fishing. </p>
+
+	<p> I can't play an instrument or dance, yet. </p>
+
+	<p> I'm usually online on #codesurfers (OFTC) as samebchase. </p>
+
+	<p> email: samebchase at gmail dot com </p>
+	
+      </div>
+
+      <div id="filler">
+      </div>
+
+      <div id="footer">
+	<div id="empty_box">
+
+	</div>
+	<a href="http://www.lisperati.com/logo.html" title="Lisp Alien"> <img src="img/alien.png" alt="Lisp Alien"  border="0" style="margin-left: 10px"> </a>
+	<a href="http://www.catb.org/hacker-emblem/" title="Glider"> <img src="img/glider.png" alt="Glider" </a>
+	<a href="http://www.gnu.org/" title="GNU Gnu"> <img src="img/gnu.png" alt="GNU"> </a>
+	<a href="http://www.gnu.org/software/emacs/tour/" title="Emacs"> <img src="img/emacs.png" alt="Emacs"> </a>
+	<a href="http://en.wikipedia.org/wiki/Tux" title="Tux"> <img src="img/tux-70-lighter.png" alt="Tux"> </a>
+	
+      </div>
+
+    </div>
+  </body>
+</html>

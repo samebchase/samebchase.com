@@ -1,0 +1,37 @@
+Samuel Chase
+
+email : samebchase@gmail.com
+web   : http://www.samebchase.com/
+
+
+Work Experience:
+
+Google Summer of Code, Student Developer [May - August 2012]
+
+Worked for Inkscape, a vector-graphics editor. My project [1] involved
+making internal improvements to guides.  C++ was the language used.
+
+
+Skills:
+
+* Programming in C/C++, Lisp and Python.
+* Comfortable working in a GNU/Linux environment.
+* Web development using HTML/CSS and JavaScript.
+* LaTeX typesetting.
+
+
+Education:
+
+[June 2009 - present]
+
+Pursuing a B. Tech in Computer Science and Engineering from GITAM
+University, Visakhapatnam with a CGPA of 7.5.
+
+
+Interests:
+
+Table Tennis
+Reading
+Fishing
+
+[1]: http://bazaar.launchpad.net/~samebchase/inkscape/guides-improvements/changes

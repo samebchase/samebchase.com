@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link href='../css/style.css' rel='stylesheet' type='text/css' media='screen'>
+    <link rel='icon' type='image/png' href='../img/s.png'>
+    <title>index
+    </title>
+  </head>
+  <body>
+    <h3>posts
+    </h3>
+<a href='/home/samuel/projects/millipode/proto/0.1/p/halftime'>halftime
+</a>
+<br>
+<a href='/home/samuel/projects/millipode/proto/0.1/p/industrial-tour'>industrial-tour
+</a>
+<br>
+  </body>
+  <footer>
+    <a href='index'>index
+    </a>
+    <a href='../about'>home
+    </a>
+  </footer>
+</html>
