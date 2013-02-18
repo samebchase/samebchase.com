@@ -11,8 +11,8 @@
       <div id="header">
 	<!-- <h1> Samuel Chase </h1> -->
 	<ul>
-	  <li> <a href="s/resume.txt"> Resume </a> </li>
-	  <li> <a href="p/index"> Archive </a> </li>
+	  <li> <a href="s/resume.txt"> resume </a> </li>
+	  <li> <a href="p/index"> archive </a> </li>
 	</ul>
       </div>
 

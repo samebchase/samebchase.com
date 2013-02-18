@@ -8,9 +8,23 @@
     </title>
   </head>
   <body>
-    <article class='post'>
-      <h3>Me vs Tertiary Education: Scores Level 1-1 at Halftime
-      </h3>
+    <div id='container'>
+      <div id='header'>
+        <ul>
+          <li>
+            <a href='../about'>home
+            </a>
+          </li>
+          <li>
+            <a href='index'>archive
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id='sidebar'></div>
+      <div id='content'>
+        <h3>Me vs Tertiary Education: Scores Level 1-1 at Halftime
+        </h3>
 <p>Half of college is over. Half of the supposedly most fun time in a
 person&#039;s life - is now over. This has a scary corollary: there&#039;s only
 a half left! As this coincides with the last few days of my teenage
@@ -45,6 +59,9 @@ IIT-JEE-AIEEE-BITSAT-VITEE-EAMCET : ..( redemption. Considering the
 enormous amount of stuff I have to learn, there isn&#039;t much time left.
 
 </p>
-    </article>
+      </div>
+      <div id='filler'></div>
+      <div id='footer'></div>
+    </div>
   </body>
 </html>

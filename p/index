@@ -8,19 +8,34 @@
     </title>
   </head>
   <body>
-    <h3>posts
-    </h3>
-<a href='/home/samuel/projects/millipode/proto/0.1/p/halftime'>halftime
-</a>
-<br>
-<a href='/home/samuel/projects/millipode/proto/0.1/p/industrial-tour'>industrial-tour
-</a>
-<br>
+    <div id='container'>
+      <div id='header'>
+        <ul>
+          <li>
+            <a href='../about'>home
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id='sidebar'></div>
+      <div id='content' style='border-bottom: 0px; min-height: 500px'>
+        <h3>archive
+        </h3>
+<div id='index_links'>
+<p>
+  <a href='/home/samuel/projects/millipode/proto/0.1/p/halftime'>halftime
+  </a>
+</p>
+<p>
+  <a href='/home/samuel/projects/millipode/proto/0.1/p/industrial-tour'>industrial-tour
+  </a>
+</p>
+</div>
+      </div>
+      <div id='filler'></div>
+      <div id='footer'>
+        <div id='empty_box'></div>
+      </div>
+    </div>
   </body>
-  <footer>
-    <a href='index'>index
-    </a>
-    <a href='../about'>home
-    </a>
-  </footer>
 </html>

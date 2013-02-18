@@ -8,9 +8,23 @@
     </title>
   </head>
   <body>
-    <article class='post'>
-      <h3>The Industrial Tour
-      </h3>
+    <div id='container'>
+      <div id='header'>
+        <ul>
+          <li>
+            <a href='../about'>home
+            </a>
+          </li>
+          <li>
+            <a href='index'>archive
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id='sidebar'></div>
+      <div id='content'>
+        <h3>The Industrial Tour
+        </h3>
 <p>Most engineering students in Andhra Pradesh are made to go on an
 Industrial Tour. This is usually just an excuse to have fun traveling
 and spending time with classmates. It was decided that our class go on
@@ -131,6 +145,9 @@ hyped up to be.
 <p>Go-B4!!
 
 </p>
-    </article>
+      </div>
+      <div id='filler'></div>
+      <div id='footer'></div>
+    </div>
   </body>
 </html>
