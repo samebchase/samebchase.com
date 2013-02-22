@@ -1,8 +1,10 @@
-* TODO style
-** TODO a (much) better layout
-** DONE basic stylesheet
-** DONE Back to index/home
-** DONE fix styling on index.
+* TODO a (much) better layout
+* TODO clean up existing stylesheet
+* TODO a:visited link colour
+* TODO fluid images
+* DONE basic stylesheet
+* DONE Back to index/home
+* DONE fix styling on index.
    The list of links under the h3 "posts" needs to be fixed.
-** DONE background-colour
-** DONE tweak css so that about will not require scrolling.
+* DONE background-colour
+* DONE tweak css so that about will not require scrolling.
