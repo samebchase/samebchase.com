@@ -8,7 +8,7 @@ Work Experience:
 
 Google Summer of Code, Student Developer [May - August 2012]
 
-Worked for Inkscape, a vector-graphics editor. My project [1] involved
+Worked for Inkscape, a vector-graphics editor. My project involved
 making internal improvements to guides.  C++ was the language used.
 
 
@@ -28,10 +28,9 @@ Pursuing a B. Tech in Computer Science and Engineering from GITAM
 University, Visakhapatnam with a CGPA of 7.5.
 
 
-Interests:
+Links:
 
-Table Tennis
-Reading
-Fishing
-
-[1]: http://bazaar.launchpad.net/~samebchase/inkscape/guides-improvements/changes
+[1]: https://bitbucket.org/samebchase
+[2]: https://launchpad.net/~samebchase
+[3]: http://www.samebchase.com/s/resume.txt
+[4]: https://code.launchpad.net/~inkscape.dev/inkscape/guides-improvements
