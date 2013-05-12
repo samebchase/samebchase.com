@@ -1,7 +1,7 @@
 Samuel Ebenezer Chase
 
-email : samebchase@gmail.com
-web   : http://www.samebchase.com/
+email  : samebchase@gmail.com
+web    : http://www.samebchase.com/
 
 
 Work Experience:
@@ -14,10 +14,10 @@ making internal improvements to guides.  C++ was the language used.
 
 Skills:
 
-* Programming in C/C++, Lisp and Python.
+* Programming in C++/C, Common Lisp and Python.
 * Comfortable working in a GNU/Linux environment.
-* Web development using HTML/CSS and JavaScript.
-* LaTeX typesetting.
+* Web design
+* LaTeX typesetting
 
 
 Education:
@@ -34,4 +34,9 @@ Table Tennis
 Reading
 Fishing
 
-[1]: http://bazaar.launchpad.net/~samebchase/inkscape/guides-improvements/changes
+
+Links:
+
+[1]: http://bazaar.launchpad.net/~inkscape.dev/inkscape/guides-improvements/changes
+[2]: https://github.com/samebchase
+[3]: https://bitbucket.org/samebchase
