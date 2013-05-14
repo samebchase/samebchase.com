@@ -1,7 +1,7 @@
-Samuel Chase
+Samuel Ebenezer Chase
 
-email : samebchase@gmail.com
-web   : http://www.samebchase.com/
+email  : samebchase@gmail.com
+web    : http://www.samebchase.com/
 
 
 Work Experience:
@@ -14,15 +14,15 @@ making internal improvements to guides.  C++ was the language used.
 
 Skills:
 
-* Programming in C/C++, Lisp and Python.
+* Programming in C++/C, Common Lisp and Python.
 * Comfortable working in a GNU/Linux environment.
-* Web development using HTML/CSS and JavaScript.
-* LaTeX typesetting.
+* Web design
+* LaTeX typesetting
 
 
 Education:
 
-[June 2009 - present]
+[June 2009 - April 2013]
 
 Pursuing a B. Tech in Computer Science and Engineering from GITAM
 University, Visakhapatnam with a CGPA of 7.5.
@@ -30,7 +30,20 @@ University, Visakhapatnam with a CGPA of 7.5.
 
 Links:
 
+<<<<<<< local
 [1]: https://bitbucket.org/samebchase
 [2]: https://launchpad.net/~samebchase
 [3]: http://www.samebchase.com/s/resume.txt
 [4]: https://code.launchpad.net/~inkscape.dev/inkscape/guides-improvements
+=======
+Table Tennis
+Reading
+Fishing
+
+
+Links:
+
+[1]: http://bazaar.launchpad.net/~inkscape.dev/inkscape/guides-improvements/changes
+[2]: https://github.com/samebchase
+[3]: https://bitbucket.org/samebchase
+>>>>>>> other
