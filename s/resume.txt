@@ -28,14 +28,8 @@ Pursuing a B. Tech in Computer Science and Engineering from GITAM
 University, Visakhapatnam with a CGPA of 7.5.
 
 
-Links:
+Interests:
 
-<<<<<<< local
-[1]: https://bitbucket.org/samebchase
-[2]: https://launchpad.net/~samebchase
-[3]: http://www.samebchase.com/s/resume.txt
-[4]: https://code.launchpad.net/~inkscape.dev/inkscape/guides-improvements
-=======
 Table Tennis
 Reading
 Fishing
@@ -46,4 +40,3 @@ Links:
 [1]: http://bazaar.launchpad.net/~inkscape.dev/inkscape/guides-improvements/changes
 [2]: https://github.com/samebchase
 [3]: https://bitbucket.org/samebchase
->>>>>>> other
