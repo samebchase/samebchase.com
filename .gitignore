@@ -1,7 +1,4 @@
-syntax: glob
-
 push
-*.fasl
 *~
 load
 \#*
