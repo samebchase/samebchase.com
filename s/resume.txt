@@ -14,10 +14,10 @@ making internal improvements to guides.  C++ was the language used.
 
 Skills:
 
-* Programming in C++/C, Common Lisp and Python.
+* Programming in C++ and Common Lisp.
 * Comfortable working in a GNU/Linux environment.
-* Web design
-* LaTeX typesetting
+* Web design.
+* LaTeX typesetting.
 
 
 Education:
@@ -30,9 +30,9 @@ University, Visakhapatnam with a CGPA of 7.5.
 
 Interests:
 
-Table Tennis
-Reading
-Fishing
+* Reading
+* Fishing
+* Table Tennis
 
 
 Links:
