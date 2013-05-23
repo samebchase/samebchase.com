@@ -1,1 +1,89 @@
-/home/samuel/writing/tech/rust-contribution.txt
+First contribution to Rust
+
+My friend Vineela had an interview where she was asked to find the
+majority element of an array.
+
+The problem described that the majority element of an array of size N
+is defined as the element that occurs N/2 times when N is even and N/2
++ 1 times when it is odd. Easy, right?
+
+Well, the solution took me an embarassingly long time to write. I
+decided to write the program in Common Lisp, as that is one of the
+languages that I am the most familiar with, at the moment.
+
+I hadn't solved any exercises in quite some time, so I was
+understandably rusty. gsathya was able to come up with a Python
+solution in like three minutes.
+
+Once I started writing the program, I began to see parts of the code
+that should be in a function. I created smaller helper functions and
+then began to test them in the SLIME repl. Just when I felt that I was
+almost done, I kept getting strange results. By that time I had been
+struggling with the trivial problem for a shamefully long time and my
+head was in no mood to focus hard. With great difficulty, I managed to
+get it working and pasted my results.
+
+The next day, I thought that this would be a nice, trivial exercise to
+solve in Rust. I set about attempting the program. Not being
+comfortable with the language, I had to look up example code from the
+tutorials to do even the simplest of things.
+
+I decided to use a hash-table just like my Lisp solution. This is when
+things started getting irritating. Rust, being a new, rapidly evolving
+language recently had some changes to its hash-tables. Documentation
+was sparse, but with what little there was and some comments on the
+internet, I was able to get some sort of an idea how to go about this.
+
+Once, I'd reached a dead-end, I decided to join the #rust IRC channel
+and ask for help. People there asked me what build of the Rust
+compiler I was using. I told them that I'd been using the trunk build
+of Rust. I had been building it fairly regularly. However, what
+happened was that I hadn't done a "make install" which would have
+updated the target of the Rust compiler symlink I had been using.
+
+Doing "make install" did not solve the problem and I later learned
+that I had to build the "incoming" branch of Rust and not the "master"
+branch which could be up to a month old. I built the "incoming" branch
+of Rust and tried my program. It worked. Finally. Progress.
+
+I was quite fatigued from struggling at my computer for so long that I
+felt that I had to take a break.
+
+After the break, I thought it would be a good idea to get a code
+review from #rust. A friendly person on the channel actually bothered
+to make changes to my solution and pasted his modified version. The
+gist of his review was that I was writing my own print_vector()
+function when there already was a vec.to_str() method which does that
+for me.
+
+I then thought there might be something similar for HashMap, which is
+the hash-table type in Rust. Trying some example code confirmed that a
+to_str() method wasn't implemented for HashMaps. I thought that it'd
+be fun to try and write it.
+
+Having the Rust compiler codebase with me, I did an "M-x find-grep" in
+Emacs and then found the file where all the to_str() methods for the
+various types are implemented.
+
+The file looked tricky at first glance, but after a closer look at the
+parts that were important, and selectively ignoring things that
+were not, I began to understand what the code did.
+
+I began to see the implementations of the to_str() method for vectors
+and the like, and I realised that this is the place where I should
+write the function.
+
+
+
+The code itself was pretty straightforward, as I had just written a
+print-object function for hash-tables in Common Lisp the day before. I
+just had to iterate over all the (key, value) pairs in the hash-table
+and print them. I had a look at the implementations of the methods for
+the other types and wrote something similar for HashMaps. Whatever
+minor difficulties I had after that were quickly resolved with a
+little help from the nice people on #rust.
+
+My pull request on Github was merged in a few days later.
+
+P.S. It was fun writing this while waiting for Rust to build and run
+all the tests.
