@@ -73,8 +73,6 @@ I began to see the implementations of the to_str() method for vectors
 and the like, and I realised that this is the place where I should
 write the function.
 
-
-
 The code itself was pretty straightforward, as I had just written a
 print-object function for hash-tables in Common Lisp the day before. I
 just had to iterate over all the (key, value) pairs in the hash-table
