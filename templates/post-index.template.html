@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <link href='../css/style.css' rel='stylesheet' type='text/css' media='screen' />
+    <link rel='icon' type='image/png' href='../img/s.png' />
+    <title> archive </title>
+  </head>
+
+  <body>
+    <div id='container'>
+      <div id='header'>
+        <ul>
+          <li>
+            <a href='../index.html'>home</a>
+          </li>
+        </ul>
+      </div> <!-- /header -->
+
+      <div id='sidebar'>
+        <!-- nothing here -->
+      </div> <!-- /sidebar -->
+
+      <div id='content' style='border-bottom: 0px; min-height: 300px'>
+
+        <h3> archive </h3>
+
+        <div id='index_links'>
+
+          <!-- tmpl_loop posts -->
+
+          <p>
+            <a href='<!-- tmpl_var link-href -->' > <!-- tmpl_var link-name --> </a>
+          </p>
+
+          <!-- /tmpl_loop -->
+
+        </div> <!-- /index_links -->
+
+      </div> <!-- /content -->
+
+      <div id='filler'>
+        <!-- nothing here -->
+      </div> <!-- /filler -->
+
+      <div id='footer'>
+
+        <div id='empty_box'>
+          <!-- nothing here -->
+        </div> <!-- /empty_box -->
+        
+      </div> <!-- /footer -->
+    </div> <!-- /container -->
+  </body>
+</html>
