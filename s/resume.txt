@@ -5,6 +5,15 @@ web   : http://www.samebchase.com/
 code  : https://github.com/samebchase/
 
 
+Professional Skills:
+
+* Programming in C++ and Common Lisp.
+* Some experience with Python and OCaml.
+* Comfortable working in a GNU/Linux environment.
+* Basic web design.
+* LaTeX typesetting.
+
+
 Work Experience:
 
 Google Summer of Code, Student Developer [May - August 2012]
@@ -54,15 +63,6 @@ I'm continuing the work on my branch.
 
 Implemented a string representation method:
 https://github.com/rust-lang/rust/pull/6414/files
-
-
-Professional Skills:
-
-* Programming in C++ and Common Lisp.
-* Some experience with Python and OCaml.
-* Comfortable working in a GNU/Linux environment.
-* Basic web design.
-* LaTeX typesetting.
 
 
 Education:
