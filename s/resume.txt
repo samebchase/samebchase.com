@@ -42,7 +42,7 @@ A simple static site generator.
 A solution to the word ladder problem. Implemented in Common Lisp and
 in OCaml.
 
-[4] codesurfers.net/: https://github.com/codesurfers/codesurfers.net/
+[4] codesurfers.net: https://github.com/codesurfers/codesurfers.net/
 
 http://www.codesurfers.net/
 A community website for programmers.
