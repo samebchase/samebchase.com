@@ -2,7 +2,7 @@ Trip to Dangs District, Gujarat
 
 After last year's enlightening trip to Bihar, my expectations for this
 trip were high. However, upon learning that it is going to be a road
-trip in a [Tempo](https://en.wikipedia.org/wiki/Force_Traveller), I
+trip in a <a href="https://en.wikipedia.org/wiki/Force_Traveller">Tempo</a>, I
 was apprehensive to the idea, and as it turns out, they were
 well-founded.
 
