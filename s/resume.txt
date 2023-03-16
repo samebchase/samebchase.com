@@ -33,7 +33,7 @@ Role: SDE I—SDE III
 * Conducted introductory Clojure training for 25+ new engineers.
 
 [2] Google Summer of Code [May - August 2012]
-Role: Student Developerp
+Role: Student Developer
 
 Worked for Inkscape, a vector-graphics editor. My project involved
 making internal improvements to guides. C++ was the language used.
@@ -48,11 +48,9 @@ A community website for programmers.
 My personal website.
 
 [3] hash-set: https://github.com/samebchase/hash-set/
-
 Library to perform set operations in Common Lisp.
 
 [4] millipode: https://github.com/samebchase/millipode/
-
 A simple static site generator.
 
 
@@ -76,7 +74,7 @@ are some areas I have explored.
 * Performance Tuning
 * Systems Programming
 * Formal Methods (Model Checking)
-* Declarative Dependency management (NixOS)
+* Declarative Dependency Management (NixOS)
 * Filesystems (OpenZFS)
 
 
