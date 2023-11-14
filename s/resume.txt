@@ -4,13 +4,26 @@ Professional Summary:
 
 * Extensive programming experience building distributed backend
   systems in Clojure.
-* Modest experience in Raku, Common Lisp, Java, C++.
+* Modest experience in Go, Raku, Common Lisp, Java and C++.
 * Comfortable working in a BSD/Linux environment.
 
 
 Work Experience:
 
-[1] Helpshift, Pune [Aug 2014–present day]
+[1] Last9, Pune [Jun 2023-Oct 2023]
+Role: Backend Engineering
+
+* Worked on the backend dashboard application and auxiliary components.
+  - Built various features for the dashboard and the underlying backend APIs.
+
+* Technologies used:
+  - Go
+  - PostgreSQL
+  - Terraform
+  - PromQL
+  - Grafana
+
+[2] Helpshift, Pune [Aug 2014–May 2023]
 Role: SDE I—SDE III
 
 * Worked on a wide variety of backend infrastructural components which
@@ -26,13 +39,13 @@ Role: SDE I—SDE III
 
 * Designed and built the first version of the Helpshift REST API.
 
-* Designed and built parts of the Chatbots product.
+* Designed and built large parts of the Chatbots product.
 
 * Maintained jobs running on the Flink streaming platform.
 
 * Conducted introductory Clojure training for 25+ new engineers.
 
-[2] Google Summer of Code [May - August 2012]
+[3] Google Summer of Code [May - August 2012]
 Role: Student Developer
 
 Worked for Inkscape, a vector-graphics editor. My project involved
@@ -84,5 +97,5 @@ web      : https://samebchase.com/
 code     : https://github.com/samebchase/
 email    : samebchase@gmail.com
 gemini   : gemini://test.samebchase.com/
-mastodon : https://mastodon.social/@samebchase
+mastodon : https://fantastic.earth/@samebchase
 IRC      : samebchase on OFTC and Libera.Chat
